@@ -1,15 +1,14 @@
 OUT_DIR=output
 IN_DIR=markdown
 STYLES_DIR=styles
-STYLE=chmduquesne
-
-all: html pdf docx rtf
+STYLE=perso
+all: clean html pdf docx rtf
 
 pdf: init
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.pdf; \
-		pandoc --standalone --template $(STYLES_DIR)/$(STYLE).tex \
+		pandoc --standalone -V mainfont="Open Sans" -V sansfont="Open Sans" --template $(STYLES_DIR)/$(STYLE).tex \
 			--from markdown --to context \
 			--variable papersize=A4 \
 			--output $(OUT_DIR)/$$FILE_NAME.tex $$f > /dev/null; \

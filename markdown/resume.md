@@ -1,18 +1,70 @@
-Johnny Coder
-============
+# Matthieu Cneude
+*Berlin, Germany* | [https://thevaluable.dev](https://thevaluable.dev) | [github.com/Phantas0s](https://www.github.com/Phantas0s)
+
+## Work History
+
+*December 2019 - October 2020 * - **Sabatical**
+
+* Traveled to Asia.
+* Writing a book (https://themouseless.dev)
+* Learned Clojure / Clojurescript.
+* Work through the course CS61a from Berkeley (with the SICP as textbook).
+* Completed an online course on Mathematics for Programmers.
+
+---
+
+*March 2018 - December 2019* - **Software engineer - Loopline Systems** (Berlin, Germany)
+
+Loopline Systems sells a feedback software (Loop Now) to companies to improve their culture (B2B).
+
+* Maintained and implemented functionalities in different microservices for Loop Now. (Golang / PostgresSQL).
+* Developed the first version of a Business Intelligence software (BI) to gather essential customer's data. (Golang / PostgreSQL).
+* It was difficult to manage customers accounts, so I've written a backoffice to make it easier (REACT / Golang).
+
+> Mr. Cneude's outstanding commitment is especially worthy of mention - *CTO of Loopline System*
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+*March 2017 - March 2018* - **Lead Developer - Pantaflix** (Berlin, Germany)
+
+[Pantaflix](https://www.pantaflix.com/) is a VOD platform allowing customers to rent movies for a short period of time with a fixed price.
+
+* Rewrote their most important software: an application allowing directors to manage the movies' medadata appearing on the website. (PHP)
+    * Wrote the foundations and migrated all the data (PHP / SQL).
+    * Team leader on the project: onboarded and mentored new developers.
+* This application is still in use today.
+
+> Mr. Cneude was a highly regarded senior enginner - *CTO of Pantaflix*
 
 ----
 
-Education
----------
+*October 2014 - March 2017* - **Lead Developer - Lesara** (Berlin, Germany)
 
-2010-2014 (expected)
+Lesara was one of the most successful e-commerce company in Berlin. I helped the company grows and double its size. In one year, Lesara was selling from 2 country to 24 countries in Europe, sending shipments from China.
+
+* Lead developer of the custom Logistic software managing stocks, orders, shipments, and suppliers. (PHP / MySQL).
+
+----
+
+*February 2014 - October 2014* - **PHP Backend Developer - Orange** (Lyon, France)
+
+Orange is one of the biggest phone operator in Europe. I was maintaining a complex project to create highly customizable events.
+
+----
+
+*May 2012 - December 2013* - **Fullstack web developer - Heliopsis** (Lyon, France)
+
+Heliopsis was selling websites to clients, and I was one of the three fullstack developer.
+
+----
+
+*May 2011 - March 2012* - **Fullstack web developer - La Maison du Web** (Lyon, France)
+
+La Maison du Web was selling websites to clients. We developed a whole backend to create e-commerce with another developer, and many websites.
+
+## Education
+
+2010 - Now
 :   **PhD, Computer Science**; Awesome University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
@@ -24,26 +76,8 @@ Education
 
     *Minor: Awesomeology*
 
-Experience
-----------
 
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
+## Technical Experience
 
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
@@ -81,8 +115,7 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+## Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
