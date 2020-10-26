@@ -2,7 +2,7 @@ OUT_DIR=output
 IN_DIR=markdown
 STYLES_DIR=styles
 STYLE=perso
-all: clean html pdf docx rtf
+all: clean pdf docx rtf
 
 pdf: init
 	for f in $(IN_DIR)/*.md; do \

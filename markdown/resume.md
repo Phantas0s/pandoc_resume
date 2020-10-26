@@ -3,22 +3,22 @@
 
 ## Work History
 
-*December 2019 - October 2020 * - **Sabatical**
+*December 2019 - Now * - **Sabbatical**
 
 * Traveled to Asia.
-* Writing a book (https://themouseless.dev)
+* Book writing ([https://themouseless.dev](https://themouseless.dev))
 * Participant at the [Recurse Center](https://www.recurse.com/).
 * Learned Clojure / Clojurescript.
-* Work through the course CS61a from Berkeley (with the SICP as textbook).
+* Work through the course [CS61a](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) from Berkeley (with the [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) as textbook).
 * Learned some foundations in discrete mathematics.
 
 ---
 
 *March 2018 - December 2019* - **Software engineer - Loopline Systems** (Berlin, Germany)
 
-Loopline Systems sells a feedback software (Loop Now) to companies to improve their culture (B2B).
+Loopline Systems was selling a feedback software (Loop Now) to companies to improve their feedback culture (B2B).
 
-*Technologies*: React, Golang, PostgreSQL, docker containers, RabbitMQ, Ansible...
+**Technologies**: React, Golang, PostgreSQL, docker containers, RabbitMQ, Ansible.
 
 * Maintained and implemented functionalities in different microservices for Loop Now.
 * Developed the first version of a Business Intelligence software (BI) to gather essential customer's data.
@@ -30,11 +30,11 @@ Loopline Systems sells a feedback software (Loop Now) to companies to improve th
 
 *March 2017 - March 2018* - **Lead Developer - Pantaflix** (Berlin, Germany)
 
-[Pantaflix](https://www.pantaflix.com/) is a VOD platform allowing customers to rent movies for a short period of time with a fixed price.
+[Pantaflix](https://www.pantaflix.com/) is a VOD platform allowing customers to rent movies for a short period of time with a fixed price (B2C).
 
-*Technologies*: PHP (Symfony), MySQL, docker containers, Jenkins...
+**Technologies**: PHP (Symfony), MySQL, docker containers (Ranger), Jenkins, JavaScript.
 
-* Rewrote their most important software: an application allowing directors to manage the movies' medadata appearing on the website.
+* Rewrote their most important software to distinguish them from the competitors: an application allowing directors to manage the movies' medadata (title, images...) appearing on the website.
     * Wrote the foundations and migrated all the data.
     * Team leader on the project: onboarded and mentored new developers.
 
@@ -44,15 +44,18 @@ Loopline Systems sells a feedback software (Loop Now) to companies to improve th
 
 *October 2014 - March 2017* - **Lead Developer - Lesara** (Berlin, Germany)
 
-Lesara was one of the most successful e-commerce company in Berlin. I helped the company grows and double its size. In one year, Lesara was selling from 2 country to 24 countries in Europe, sending shipments from China.
+Lesara was one of the most successful e-commerce company in Berlin. I helped the company grows and double its size (from 100 to 200 employees). In one year, Lesara was selling from 2 to 24 countries in Europe (B2C).
 
-*Technologies*: PHP (Symfony), MySQL, docker containers, Capistrano, RabbitMQ...
+**Technologies**: PHP (Symfony), MySQL, docker containers, Capistrano, RabbitMQ.
 
-* Lead developer of the custom Logistic software managing stocks, orders, shipments, and suppliers.
+* Lead developer of the Logistic software managing stocks, orders, shipments, and suppliers.
+    * Logistic was handling the specific logistic strategy of the company (shipping from China to Europe and consolidation strategies) no other solution could provide.
 
 ----
 
 *February 2014 - October 2014* - **PHP Backend Developer - Orange** (Lyon, France)
+
+**Technologies**: PHP (EzPublish), MySQL, JavaScript.
 
 Orange is one of the biggest phone operator in Europe. I was maintaining a complex project to create customizable events.
 
@@ -60,13 +63,17 @@ Orange is one of the biggest phone operator in Europe. I was maintaining a compl
 
 *May 2012 - December 2013* - **Fullstack web developer - Heliopsis** (Lyon, France)
 
-At Heliopsis, I developed multiple websites with Heliopsis' team for diverse clients (PHP / MySQL).
+**Technologies**: PHP (Symfony), MySQL, JavaScript, CSS3.
+
+At Heliopsis, I developed multiple websites with Heliopsis' team for diverse clients.
 
 ----
 
 *May 2011 - March 2012* - **Fullstack web developer - La Maison du Web** (Lyon, France)
 
-We developed, with a second developer, a whole framework and backend to create e-commerce and many websites (PHP / MySQL).
+**Technologies**: PHP, MySQL, JavaScript, CSS.
+
+We developed, with a second developer, a whole framework and backend to create e-commerce and many websites.
 
 ## Education
 
