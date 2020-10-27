@@ -18,7 +18,7 @@
 
 Loopline Systems was selling a feedback software (Loop Now) to companies to improve their feedback culture (B2B).
 
-**Technologies**: React, Golang, PostgreSQL, docker containers, RabbitMQ, Ansible.
+**Technologies**: React, Golang, PostgreSQL, Elasticsearch, docker containers, RabbitMQ, Ansible.
 
 * Maintained and implemented functionalities in different microservices for Loop Now.
 * Developed the first version of a Business Intelligence software (BI) to gather essential customer's data.
@@ -78,7 +78,7 @@ We developed, with a second developer, a whole framework and backend to create e
 ## Education
 
 2010 - Now
-:   **[Continue studying actively.](https//github.com/Phantas0s/alexandria-library)**
+:   **[Continue studying actively.](https://github.com/Phantas0s/alexandria-library)**
 
 2010
 :   *Degree in Web Development and Communication*; University of
