@@ -14,7 +14,7 @@
 
 ---
 
-*March 2018 - December 2019* - **Software engineer - Loopline Systems** (Berlin, Germany)
+*March 2018 - December 2019* - **Software Engineer - Loopline Systems** (Berlin, Germany)
 
 Loopline Systems was selling a feedback software (Loop Now) to companies to improve their feedback culture (B2B).
 
@@ -24,7 +24,7 @@ Loopline Systems was selling a feedback software (Loop Now) to companies to impr
 * Developed the first version of a Business Intelligence software (BI) to gather essential customer's data.
 * Developed a backoffice to solve the difficulties to manage customers' accounts.
 
-> Mr. Cneude's outstanding commitment is especially worthy of mention - *CTO of Loopline System*
+> [Mr. Cneude's outstanding commitment is especially worthy of mention](https://matthieucneude.com/recommendation_loopline.pdf) - *CTO of Loopline System*
 
 ----
 
@@ -38,7 +38,7 @@ Loopline Systems was selling a feedback software (Loop Now) to companies to impr
     * Wrote the foundations and migrated all the data.
     * Team leader on the project: onboarded and mentored new developers.
 
-> Mr. Cneude was a highly regarded senior enginner - *CTO of Pantaflix*
+> [Mr. Cneude was a highly regarded senior engineer](https://matthieucneude.com/recommendation_pantaflix.pdf) - *CTO of Pantaflix*
 
 ----
 
