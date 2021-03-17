@@ -3,14 +3,15 @@
 
 ## Work History
 
-*December 2019 - Now * - **Sabbatical**
+*December 2019 - Now * - **Self-employed**
 
 * Traveled to Asia.
-* Book writing ([https://themouseless.dev](https://themouseless.dev))
+* Wrote a book ([https://themouseless.dev](https://themouseless.dev)).
 * Participant at the [Recurse Center](https://www.recurse.com/).
 * Learned Clojure / Clojurescript.
-* Work through the course [CS61a](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) from Berkeley (with the [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) as textbook).
+* Worked through the course [CS61a](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) from Berkeley (with the [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) as textbook).
 * Learned some foundations in discrete mathematics.
+* Developed open source projects.
 
 ---
 
