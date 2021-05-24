@@ -3,20 +3,20 @@
 
 ## Work History
 
-*December 2019 - Now * - **Self-employed**
+*December 2019 - Now* - **Self-employed**
 
 * Wrote a book ([https://themouseless.dev](https://themouseless.dev)).
 * Participant at the [Recurse Center](https://www.recurse.com/).
 * Learned Clojure / Clojurescript.
 * Worked through the course [CS61a](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) from Berkeley (with the [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) as textbook).
-* Learned some foundations in discrete mathematics.
-* Developed open source projects.
+* Actively study computer science.
+* Developed [open source projects](https://github.com/Phantas0s/devdash).
 
 ---
 
 *March 2018 - December 2019* - **Software Engineer - Loopline Systems** (Berlin, Germany)
 
-Loopline Systems was selling a feedback software (Loop Now) to companies to improve their feedback culture (B2B).
+Loopline Systems develops feedback software (Loop Now) to companies to improve their feedback culture (B2B).
 
 **Technologies**: React, Golang, PostgreSQL, Elasticsearch, docker containers, RabbitMQ, Ansible.
 
@@ -31,11 +31,11 @@ Loopline Systems was selling a feedback software (Loop Now) to companies to impr
 
 *March 2017 - March 2018* - **Lead Developer - Pantaflix** (Berlin, Germany)
 
-[Pantaflix](https://www.pantaflix.com/) is a VOD platform allowing customers to rent movies for a short period of time with a fixed price (B2C).
+[Pantaflix](https://www.pantaflix.com/) is a VOD platform allowing customers to rent movies and watch them online (B2C).
 
 **Technologies**: PHP (Symfony), MySQL, docker containers (Ranger), Jenkins, JavaScript.
 
-* Rewrote Pantaflix's most important software to distinguish them from the competitors: an application allowing directors to manage their movies' medadata (title, images...) appearing on the website.
+* Rewrote Pantaflix's key software: an application allowing directors to manage their movies' medadata (title, images...) appearing on the website.
     * Advised the management and the developers regarding the technical decisions.
     * Wrote the foundations and migrated all the data.
     * Team leader on the project: onboarded and mentored new developers.
@@ -81,7 +81,7 @@ We developed, with a second developer, a whole framework and backend to create e
 ## Education
 
 2010 - Now
-:   **[Continue studying actively.](https://github.com/Phantas0s/alexandria-library)**
+:   [Continue studying actively.](https://thevaluable.dev/tags/learning/)**
 
 2010
 :   *Degree in Web Development and Communication*; University of
