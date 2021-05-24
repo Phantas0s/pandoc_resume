@@ -1,11 +1,10 @@
 # Matthieu Cneude - Software Engineer
-*Berlin, Germany* | [https://thevaluable.dev](https://thevaluable.dev) | [github.com/Phantas0s](https://www.github.com/Phantas0s)
+*Berlin, Germany* | [github.com/Phantas0s](https://www.github.com/Phantas0s) | [https://thevaluable.dev](https://thevaluable.dev) 
 
 ## Work History
 
 *December 2019 - Now * - **Self-employed**
 
-* Traveled to Asia.
 * Wrote a book ([https://themouseless.dev](https://themouseless.dev)).
 * Participant at the [Recurse Center](https://www.recurse.com/).
 * Learned Clojure / Clojurescript.
@@ -21,6 +20,7 @@ Loopline Systems was selling a feedback software (Loop Now) to companies to impr
 
 **Technologies**: React, Golang, PostgreSQL, Elasticsearch, docker containers, RabbitMQ, Ansible.
 
+* Advised the management and the developers regarding the technical decisions.
 * Maintained and implemented functionalities in different microservices for Loop Now.
 * Developed the first version of a Business Intelligence software (BI) to gather essential customer's data.
 * Developed a backoffice to solve the difficulties to manage customers' accounts.
@@ -35,7 +35,8 @@ Loopline Systems was selling a feedback software (Loop Now) to companies to impr
 
 **Technologies**: PHP (Symfony), MySQL, docker containers (Ranger), Jenkins, JavaScript.
 
-* Rewrote their most important software to distinguish them from the competitors: an application allowing directors to manage the movies' medadata (title, images...) appearing on the website.
+* Rewrote Pantaflix's most important software to distinguish them from the competitors: an application allowing directors to manage their movies' medadata (title, images...) appearing on the website.
+    * Advised the management and the developers regarding the technical decisions.
     * Wrote the foundations and migrated all the data.
     * Team leader on the project: onboarded and mentored new developers.
 
@@ -50,6 +51,7 @@ Lesara was one of the most successful e-commerce company in Berlin. I helped the
 **Technologies**: PHP (Symfony), MySQL, docker containers, Capistrano, RabbitMQ.
 
 * Lead developer of the Logistic software managing stocks, orders, shipments, and suppliers.
+    * Advised the management and the developers regarding the technical decisions.
     * Logistic was handling the specific logistic strategy of the company (shipping from China to Europe and consolidation strategies) no other solution could provide.
 
 ----
